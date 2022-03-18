@@ -1,5 +1,5 @@
 from api import server
-from api.controllers.familias import *
+from api.controllers.produtos import *
 
 
 server.run()
